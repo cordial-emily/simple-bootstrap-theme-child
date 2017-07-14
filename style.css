@@ -11,5 +11,6 @@
  Tags:         two-columns, right-sidebar, responsive-layout
  Text Domain:  simple-bootstrap-theme-child
 */
-
- img.logo.img-fluid { width: 30%; }
+ul#menu-top {
+    float: right;
+}
