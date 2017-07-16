@@ -11,6 +11,77 @@
  Tags:         two-columns, right-sidebar, responsive-layout
  Text Domain:  simple-bootstrap-theme-child
 */
+/* menu and logo */
 ul#menu-top {
     float: right;
+}
+header.top {
+    background-color: #f7f8fb;
+}
+.current-menu-item {
+    background-color: #f4f5f9;
+}
+.navbar-nav li a:hover {
+    background-color: #d8d9dc;
+}
+.nav>li:hover {
+    background-color: #d8d9dc;
+}
+/* banner */
+.banner {
+    background-color: #ffffff;
+}
+.container.subcontainer {
+    background-color: transparent;
+    background-image: none;
+}
+
+/*------------------- MEDIA QUERIES ----------------------*/
+/********big screen**********/
+
+@media screen and (max-width: 3500px) {
+  .banner {
+    background: url(images/icons/banner.1.png) top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+}
+@media screen and (max-width: 1200px) {
+
+}
+@media screen and (max-width: 991px) {
+
+}
+@media screen and (max-width: 780px) {
+
+}
+@media screen and (max-width: 680px) {
+
+}
+/* ******************************************
+			Media Queries for screen less than  (600px)
+****************************************** */
+@media screen and (max-width: 600px) {
+  .banner {
+    background: url(images/icons/banner.2.png) top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .subcontainer {
+    background-image: none;
+  }
+}
+@media screen and (max-width: 480px) {
+  .banner {
+    background: url(images/icons/banner.2.png) top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
 }
