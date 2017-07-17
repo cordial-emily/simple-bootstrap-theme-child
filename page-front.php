@@ -8,16 +8,16 @@
 
           <div class="floating_title">
             <h1>GIVE YOUR<br> BUSINESS A BOOST</h1>
-            <h5>Get a new website and grow your business.</h5>
+            <h5>Get a custom, responsive website and grow your business.</h5>
             <!--<h5>. . . A web design company where we work in parallel to give you the best choices.</h5>-->
 
             <button class="btn btn-default btn-lg" type="button">
             Find the right plan for you.
             </button>
           </div><!--end floating_title-->
-          <div class="floating_title">
-            <img src="/uploads/2017/07/port-graphic.1.png" alt="ParallelDesign" height="100" width="100" >
-            <p><?php echo get_template_directory(); ?></p>
+          <div class="floating_title graphic">
+            <!--<img src="/uploads/2017/07/port-graphic.1.png" alt="ParallelDesign" height="100" width="100" >-->
+
           </div>
         </div>
     </div>
