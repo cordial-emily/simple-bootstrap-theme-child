@@ -11,7 +11,11 @@
  Tags:         two-columns, right-sidebar, responsive-layout
  Text Domain:  simple-bootstrap-theme-child
 */
+
 /* menu and logo */
+.top .container {
+    padding: 1.6em 0em;
+}
 ul#menu-top {
     float: right;
 }
@@ -34,6 +38,10 @@ header.top {
 .container.subcontainer {
     background-color: transparent;
     background-image: none;
+}
+.banner .floating_title {
+    padding-left: 6%;
+    padding-top: 6%;
 }
 
 /*------------------- MEDIA QUERIES ----------------------*/
