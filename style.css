@@ -80,7 +80,7 @@ header.top {
 }
 .banner .floating_title { float: left;}
 .floating_title.bannertext {
-  padding-left: 6%;
+  padding-left: 0%;
   padding-top: 6%;
 }
 .floating_title.bannertext h5 {
@@ -105,15 +105,24 @@ header.top {
     background-size: cover;
   }
   .floating_title.graphic {
-    width: 60%;
+    width: 50%;
+    margin-top: 8em;
+  }
+  .floating_title.bannertext h1 { font-size: 4em; }
+  .floating_title.graphic {
+    width: 50%;
     margin-top: 10em;
   }
-
 }
 @media screen and (max-width: 1200px) {
   .banner .container {
     min-height: 400px;
   }
+  .floating_title.graphic {
+    width: 50%;
+    margin-top: 8em;
+  }
+  .floating_title.bannertext h1 { font-size: 3em; }
   .floating_title.graphic {
     width: 50%;
     margin-top: 8em;
