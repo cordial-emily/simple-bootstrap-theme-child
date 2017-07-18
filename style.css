@@ -32,8 +32,17 @@ header.top {
 .navbar-nav li a:hover {
     background-color: #d8d9dc;
 }
-.nav>li:hover {
-    background-color: #d8d9dc;
+.nav>li:hover { background-color: #d8d9dc; }
+button.navbar-toggle { float: right; }
+button.btn.parallel-light {
+  float: right;
+  margin: 0em 1em;
+  border: 2px solid #8d9397;
+  background: transparent;
+  color: #8d9397;
+  font-family: 'Poppins', sans-serif;
+  padding: .6em .6em .4em;
+  font-size: 1.3em;
 }
 /* hamburger menu always */
 .navbar-header {
