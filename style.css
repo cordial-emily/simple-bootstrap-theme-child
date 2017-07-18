@@ -15,8 +15,14 @@
  @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500');
 
 h1, h2, h3, h4 { font-family: 'Poppins', sans-serif; font-weight: 400;}
+.btn, button.btn.btn-default:hover { border: 0px; }
+span.dashicons { color: #8d9397; }
 
 /* menu and logo */
+img.custom-logo:hover {
+    background-color: #ccc; 
+    border-radius: 3px;
+}
 .top .container {
     padding: 1.6em 0em;
 }
@@ -44,6 +50,8 @@ button.btn.parallel-light {
   padding: .6em .6em .4em;
   font-size: 1.3em;
 }
+button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border-color: #333; }
+
 /* hamburger menu always */
 .navbar-header {
   float: none;
@@ -53,6 +61,7 @@ button.btn.parallel-light {
 }
 .navbar-toggle {
   display: block;
+  padding: 2px 5px 6px;
 }
 .navbar-collapse {
   border-top: 1px solid transparent;
