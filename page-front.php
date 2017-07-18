@@ -6,7 +6,7 @@
     <div class="banner">
         <div class="container subcontainer">
 
-          <div class="floating_title">
+          <div class="floating_title bannertext">
             <h1>GIVE YOUR<br> BUSINESS A BOOST</h1>
             <h5>Get a custom, responsive website and grow your business.</h5>
             <!--<h5>. . . A web design company where we work in parallel to give you the best choices.</h5>-->
