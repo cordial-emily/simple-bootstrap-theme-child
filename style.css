@@ -11,6 +11,10 @@
  Tags:         two-columns, right-sidebar, responsive-layout
  Text Domain:  simple-bootstrap-theme-child
 */
+/* fonts */
+ @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500');
+
+h1, h2, h3, h4 { font-family: 'Poppins', sans-serif; font-weight: 400;}
 
 /* menu and logo */
 .top .container {
@@ -79,6 +83,11 @@ header.top {
   padding-left: 6%;
   padding-top: 6%;
 }
+.floating_title.bannertext h5 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    margin: 3em 0 1.8em;
+}
 .floating_title.graphic {
   background: no-repeat center /100% url(images/icons/parallel-banner-graphic.1.png);
   height: 100%;
@@ -102,6 +111,9 @@ header.top {
 
 }
 @media screen and (max-width: 1200px) {
+  .banner .container {
+    min-height: 400px;
+  }
   .floating_title.graphic {
     width: 50%;
     margin-top: 8em;
