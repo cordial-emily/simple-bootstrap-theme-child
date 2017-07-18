@@ -183,6 +183,8 @@ button.btn.parallel-light {
   }
 }
 @media screen and (max-width: 480px) {
+  img.custom-logo { height: 40px; margin-top: .5em; }
+  button.btn.parallel-light { font-size: 1em; margin: .45em 1em; }
   .banner {
     background: url(images/icons/banner.2.png) top center no-repeat;
     -webkit-background-size: cover;
