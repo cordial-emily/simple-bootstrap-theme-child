@@ -76,40 +76,17 @@
       </div>
     </div>
   </div>
+  <div class="main jumbotron">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h3 style="color: #009b9b;">Two designs.</h2>
+            <img class="img-fluid" src="<?php echo get_stylesheet_directory_uri(); ?>/images/icons/bulbs.png" alt="ParallelDesign-ideas" height="auto" width="30%" >
+          <h5>Choose the best ideas in each design.</h5>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="gradient_container">
-    <div class="middle">
-        <div class="container">
-            <div class="col-md-4 content focuslist">
-              <div class="box_info row">
-                    <span class="dashicons dashicons-networking fp-icons"></span>
-                    <h2 class="middletitle">What is your vision?</h2>
-                    <p>We'll help you build it.
-                    </p>
 
-
-
-              </div><!--box_info-->
-            </div><!--col-md-4 content"-->
-            <div class="col-md-4 content focuslist">
-              <div class="box_info">
-                <span class="dashicons dashicons-location-alt fp-icons"></span>
-                <h2 class="middletitle">Consider your strategy.</h2>
-                <p>Next steps: blog, app, or email accounts.</p>
-
-                    <!--https://developer.wordpress.org/resource/dashicons/#clock-->
-
-                </div><!--box_info-->
-            </div><!--col-md-4 content"-->
-
-
-            <div class="col-md-4 content focuslist">
-              <div class="box_info">
-                <span class="dashicons dashicons-groups fp-icons"></span>
-                <h2 class="middletitle">Plan for the future.</h2>
-                <p>Get your social media and SEO results.</p>
-
-              </div><!--box_info-->
-            </div><!--col-md-4 content-->
-          </div><!--container-->
-        </div><!--"middle"-->
 <?php get_footer(); ?>
