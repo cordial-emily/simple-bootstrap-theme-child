@@ -6,7 +6,7 @@
     <div class="banner">
         <div class="container subcontainer">
 
-          <div class="floating_title bannertext">
+          <div class="col-xs-12 col-sm-6 col-lg-8 bannertext">
             <h1>GIVE YOUR<br> BUSINESS A BOOST</h1>
             <h5>Get a custom, responsive website and grow your business.</h5>
             <!--<h5>. . . A web design company where we work in parallel to give you the best choices.</h5>-->
@@ -15,8 +15,8 @@
             Find the right plan for you.
             </button>
           </div><!--end floating_title-->
-          <div class="floating_title graphic">
-            <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/icons/parallel-banner-graphic.1.png" alt="ParallelDesign" height="300" width="500" >
+          <div class="col-xs-12 col-sm-10 col-lg-10 col-md-offset-3 graphic">
+            <img class="img-fluid" src="<?php echo get_stylesheet_directory_uri(); ?>/images/icons/parallel-banner-graphic.1.png" alt="ParallelDesign" height="auto" width="100%" >
 
           </div>
         </div>

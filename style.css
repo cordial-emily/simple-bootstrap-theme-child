@@ -97,21 +97,21 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
     background-image: none;
 }
 .banner .floating_title { float: left;}
-.floating_title.bannertext {
-  padding-left: 0%;
-  padding-top: 6%;
-}
-.floating_title.bannertext h5 {
+
+.bannertext h5 {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     margin: 3em 0 1.8em;
 }
-.floating_title.graphic {
-  /*background: no-repeat center /100% url(images/icons/parallel-banner-graphic.1.png);*/
+.graphic {
   height: 100%;
 }
 
 /*------------------- MEDIA QUERIES ----------------------*/
+
+@media (min-width: 1200px) {
+    .container { width: 80%;}
+}
 /********big screen**********/
 
 @media screen and (max-width: 3500px) {
@@ -126,48 +126,27 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
     width: 50%;
     margin-top: 8em;
   }
-  .floating_title.bannertext h1 { font-size: 4em; }
-  .floating_title.graphic {
-    width: 50%;
-    margin-top: 10em;
-  }
+  .bannertext h1 { font-size: 4em; }
+  .graphic {}
 }
 @media screen and (max-width: 1200px) {
   .banner .container {
     min-height: 400px;
   }
-  .floating_title.graphic {
-    width: 50%;
-    margin-top: 8em;
-  }
-  .floating_title.bannertext h1 { font-size: 3em; }
-  .floating_title.graphic {
-    width: 50%;
-    margin-top: 8em;
-  }
+  .bannertext h1 { font-size: 3em; }
+  .graphic { }
 
 }
 @media screen and (max-width: 991px) {
-  .floating_title.graphic {
-    width: 80%;
-    margin-left: 20%;
-    margin-top: -10%;
-}
+  .graphic { }
 
 }
 @media screen and (max-width: 780px) {
-  .floating_title.graphic {
-    width: 100%;
-    margin-left: 0%;
-    margin-top: 0%;
-  }
+  .graphic { }
 
 }
 @media screen and (max-width: 680px) {
-  .floating_title.graphic {
-    width: 100%;
-    margin-top: -10%;
-  }
+  .graphic {}
 }
 /* ******************************************
 			Media Queries for screen less than  (600px)
@@ -186,10 +165,7 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
   .floating_title h5 {
     background-color: transparent;
   }
-  .floating_title.graphic {
-    width: 100%;
-    margin-top: -10%;
-  }
+  .graphic { }
 }
 @media screen and (max-width: 480px) {
   img.custom-logo { height: 30px; margin-top: .7em; }
@@ -201,10 +177,7 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
     -o-background-size: cover;
     background-size: cover;
   }
-  .floating_title.graphic {
-    width: 100%;
-    margin-top: -25%;
-  }
+  .graphic { }
 }
 @media screen and (max-width: 395px) {
   img.custom-logo { height: 30px; margin-top: .7em; }
@@ -216,8 +189,5 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
     -o-background-size: cover;
     background-size: cover;
   }
-  .floating_title.graphic {
-    width: 100%;
-    margin-top: -10%;
-  }
+  .graphic { }
 }
