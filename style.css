@@ -107,7 +107,7 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
     margin: 3em 0 1.8em;
 }
 .floating_title.graphic {
-  background: no-repeat center /100% url(images/icons/parallel-banner-graphic.1.png);
+  /*background: no-repeat center /100% url(images/icons/parallel-banner-graphic.1.png);*/
   height: 100%;
 }
 

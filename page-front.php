@@ -16,7 +16,7 @@
             </button>
           </div><!--end floating_title-->
           <div class="floating_title graphic">
-            <!--<img src="/uploads/2017/07/port-graphic.1.png" alt="ParallelDesign" height="100" width="100" >-->
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/icons/parallel-banner-graphic.1.png" alt="ParallelDesign" height="300" width="500" >
 
           </div>
         </div>
