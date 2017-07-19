@@ -104,7 +104,7 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
     margin: 3em 0 1.8em;
 }
 .graphic {
-  height: 100%;
+  height: auto;
 }
 /* middle front page */
 .main {
@@ -129,10 +129,6 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-  }
-  .floating_title.graphic {
-    width: 50%;
-    margin-top: 8em;
   }
   .bannertext h1 { font-size: 4em; }
   .graphic {}
@@ -179,7 +175,7 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
   img.custom-logo { height: 30px; margin-top: .7em; }
   button.btn.parallel-light { font-size: 1em; margin: .45em 1em; }
   .banner {
-    background: url(images/icons/banner.2.png) top center no-repeat;
+    background: url(images/icons/banner.3.png) top center no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
