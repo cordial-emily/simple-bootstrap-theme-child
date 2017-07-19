@@ -23,6 +23,17 @@
     </div>
 
 <!-- Middle content section -->
+  <div class="main jumbotron">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h3 style="color: #009b9b;">Does your website reflow responsively?</h2>
+          <h4>Is it optimized for different devices?</h2>
+          <h2>WE CAN HELP.</h2>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="gradient_container">
     <div class="middle">
         <div class="container">

@@ -106,6 +106,14 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
 .graphic {
   height: 100%;
 }
+/* middle front page */
+.main {
+    width: 100%;
+    min-height: 10em;
+    background-color: #f7f8fb;
+}
+.main.jumbotron h2 { font-size: 3.3em; }
+.main.jumbotron h3 { font-size: 1.8em; }
 
 /*------------------- MEDIA QUERIES ----------------------*/
 
