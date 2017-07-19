@@ -28,8 +28,50 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <h3 style="color: #009b9b;">Does your website reflow responsively?</h2>
-          <h4>Is it optimized for different devices?</h2>
+          <h5>Is it optimized for different devices?</h5>
           <h2>WE CAN HELP.</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="main jumbotron" style="background-color: #f4f5f9;">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-2 text-center">
+          <div class="icons-fp">
+            <span class="dashicons dashicons-networking fp-icons"></span>
+            <h5>Goals</h5>
+          </div>
+        </div>
+        <div class="col-sm-2 text-center">
+          <div class="icons-fp">
+            <span class="dashicons dashicons-networking fp-icons"></span>
+            <h5>Budget</h5>
+          </div>
+        </div>
+        <div class="col-sm-2 text-center">
+          <div class="icons-fp">
+            <span class="dashicons dashicons-networking fp-icons"></span>
+            <h5>Building</h5>
+          </div>
+        </div>
+        <div class="col-sm-2 text-center">
+          <div class="icons-fp">
+            <span class="dashicons dashicons-networking fp-icons"></span>
+            <h5>Testing</h5>
+          </div>
+        </div>
+        <div class="col-sm-2 text-center">
+          <div class="icons-fp">
+            <span class="dashicons dashicons-networking fp-icons"></span>
+            <h5>Iterations</h5>
+          </div>
+        </div>
+        <div class="col-sm-2 text-center">
+          <div class="icons-fp">
+            <span class="dashicons dashicons-networking fp-icons"></span>
+            <h5>Launch</h5>
+          </div>
         </div>
       </div>
     </div>
