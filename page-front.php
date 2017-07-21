@@ -15,7 +15,7 @@
             Find the right plan for you.
             </button>
           </div><!--end floating_title-->
-          <div class="col-xs-12 col-sm-10 col-lg-10 col-md-offset-3 graphic">
+          <div class="col-xs-12 col-sm-10 col-lg-10 col-md-offset-3 col-sm-offset-4 graphic">
             <img class="img-fluid" src="<?php echo get_stylesheet_directory_uri(); ?>/images/icons/parallel-banner-graphic.1.png" alt="ParallelDesign" height="auto" width="100%" >
 
           </div>
@@ -83,6 +83,18 @@
           <h3 style="color: #009b9b;">Two designs.</h2>
             <img class="img-fluid" src="<?php echo get_stylesheet_directory_uri(); ?>/images/icons/bulbs.png" alt="ParallelDesign-ideas" height="auto" width="30%" >
           <h5>Choose the best ideas in each design.</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="main jumbotron" style="background-color: #f4f5f9;">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6 text-center">
+          <h3 class="text-vert-cent">Then we<br> build your site<br> from the ground up.</h3>
+        </div>
+        <div class="col-sm-6 text-center">
+          <img class="img-fluid" src="<?php echo get_stylesheet_directory_uri(); ?>/images/icons/people-building-site.1.png" alt="ParallelDesign" height="auto" width="100%" >
         </div>
       </div>
     </div>

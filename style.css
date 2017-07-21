@@ -127,6 +127,7 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
     height: 65px;
     width: 100%;
 }
+.text-vert-cent { position: absolute; top: 2em; }
 
 /*------------------- MEDIA QUERIES ----------------------*/
 
