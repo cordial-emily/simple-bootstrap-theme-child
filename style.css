@@ -157,14 +157,21 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
 }
 @media screen and (max-width: 991px) {
   .graphic { }
-
+  [class*="col-"] {
+    margin-bottom: 15px;
+  }
 }
 @media screen and (max-width: 780px) {
   .graphic { }
-
+  [class*="col-"] {
+    margin-bottom: 15px;
+  }
 }
 @media screen and (max-width: 680px) {
   .graphic {}
+    [class*="col-"] {
+    margin-bottom: 15px;
+  }
 }
 /* ******************************************
 			Media Queries for screen less than  (600px)
@@ -196,6 +203,9 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
     background-size: cover;
   }
   .graphic { }
+  [class*="col-"] {
+    margin-bottom: 15px;
+  }
 }
 @media screen and (max-width: 395px) {
   img.custom-logo { height: 30px; margin-top: .7em; }
@@ -208,4 +218,7 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
     background-size: cover;
   }
   .graphic { }
+  [class*="col-"] {
+    margin-bottom: 15px;
+  }
 }
