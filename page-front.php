@@ -103,7 +103,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <img class="img-fluid" src="<?php echo get_stylesheet_directory_uri(); ?>/images/icons/parallel-iterative-process.1.png" alt="ParallelDesign-ideas" height="auto" width="100%" >
+          <img class="img-fluid" src="<?php echo get_stylesheet_directory_uri(); ?>/images/icons/parallel-iterative-process.2.png" alt="ParallelDesign-ideas" height="auto" width="100%" >
           <h5>Choose when your website is ready to be launched.</h5>
         </div>
       </div>
