@@ -18,6 +18,8 @@ h1, h2, h3, h4 { font-family: 'Poppins', sans-serif; font-weight: 400;}
 h5 { font-weight: 400; font-size: 1.6em; color: #6e7273; }
 .btn, button.btn.btn-default:hover { border: 0px; }
 span.dashicons { color: #8d9397; }
+p, small#emailHelp { font-family: 'Lato', sans-serif; font-weight: 400; }
+label { font-family: 'Poppins'; font-weight: 500; }
 
 /* menu and logo */
 img.custom-logo:hover {
@@ -128,6 +130,55 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
     width: 100%;
 }
 .text-vert-cent { position: absolute; top: 2em; }
+
+.overlay {
+    z-index: 1;
+    position: relative;
+}
+/* speech bubble */
+.bubble {
+  position: relative;
+  display:inline-block;
+  max-width:100%;
+  min-height:1.5em;
+  padding: 20px;
+  background: #FFFFFF;
+  border: #7F7F7F solid 4px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+}
+.bubble:after {
+  content: "";
+  position: absolute;
+  bottom: -15px;
+  left: 60%;
+  border-style: solid;
+  border-width: 15px 15px 0;
+  border-color: #FFFFFF transparent;
+  display: block;
+  width: 0;
+  z-index: 1;
+}
+.bubble:before {
+  content: "";
+  position: absolute;
+  bottom: -19.5px;
+  left: calc(60% - 3px) ;
+  border-style: solid;
+  border-width: 18px 18px 0;
+  border-color: #7F7F7F transparent;
+  display: block;
+  width: 0;
+  z-index: 0;
+}
+.tutorials {
+  background: url(images/icons/tutorials.1.png) top center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 /*------------------- MEDIA QUERIES ----------------------*/
 

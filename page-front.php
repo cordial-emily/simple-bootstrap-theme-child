@@ -90,7 +90,7 @@
   <div class="main jumbotron" style="background-color: #f4f5f9;">
     <div class="container">
       <div class="row">
-        <div class="col-sm-6 text-center">
+        <div class="col-sm-6 text-center overlay">
           <h3 class="text-vert-cent">Then we<br> build your site<br> from the ground up.</h3>
         </div>
         <div class="col-sm-6 text-center">
@@ -103,13 +103,54 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h3 style="color: #009b9b;">The Parallel Design Process.</h2>
-            <img class="img-fluid" src="<?php echo get_stylesheet_directory_uri(); ?>/images/icons/parallel-iterative-process.1.png" alt="ParallelDesign-ideas" height="auto" width="70%" >
-          <h5>You decide when your website is ready to be launched.</h5>
+          <img class="img-fluid" src="<?php echo get_stylesheet_directory_uri(); ?>/images/icons/parallel-iterative-process.1.png" alt="ParallelDesign-ideas" height="auto" width="100%" >
+          <h5>Choose when your website is ready to be launched.</h5>
         </div>
       </div>
     </div>
   </div>
-  <div class="gradient_container">
+  <div class="main jumbotron tutorials" style="background-color: #f4f5f9;">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6 col-md-offset-3 col-sm-offset-1 text-center">
+          <div class="bubble">
+          <p>You did an exceptional job!<br>
+            You're attention to detail, ability to listen and understand all our desires, organization of the site, produce a successful and concise tutorial, and grasp of all the technical details are qualities I constantly look for when hiring.<br>-Jennifer Mezick</p>
+          </div>
+        </div>
+      </div>
+      <h3 class="text-center">Testimonials</h3>
+    </div>
+  </div>
+  <div class="main jumbotron">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6 bannertext">
+          <h1>BUSINESS IS <br>ABOUT TO <br>
+            GET BUSY</h1>
+          <h5>Call us today and get a quote.</h5>
+          <button class="btn btn-default btn-lg" type="button">
+          Contact Us!
+          </button>
+        </div>
+        <div class="col-sm-6">
+          <div class="jumbotron">
+            <form>
+              <div class="form-group">
+                <label for="exampleInputEmail1">Email address</label>
+                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+              </div>
+              <div class="form-group">
+                <label for="exampleTextarea">Message</label>
+                <textarea class="form-control" id="exampleTextarea" rows="3"></textarea>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="background-color: #f4f5f9;">
 
 <?php get_footer(); ?>
