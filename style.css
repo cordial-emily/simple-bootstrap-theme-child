@@ -20,6 +20,7 @@ h5 { font-weight: 400; font-size: 1.6em; color: #6e7273; }
 span.dashicons { color: #8d9397; }
 p, small#emailHelp { font-family: 'Lato', sans-serif; font-weight: 400; }
 label { font-family: 'Poppins'; font-weight: 500; }
+a:hover { text-decoration: none; }
 
 /* menu and logo */
 img.custom-logo:hover {
@@ -51,7 +52,7 @@ header.top {
 .navbar-nav li a:hover {
     background-color: transparent;
 }
-.nav>li:hover { background-color: #ffffff; border-radius: 3px; }
+ul#menu-top.nav>li:hover, .bottom .nav-pills>li>a:hover { background-color: #ffffff; border-radius: 3px; }
 button.navbar-toggle { float: right; }
 button.btn.parallel-light {
   float: right;
@@ -189,7 +190,9 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
   -o-background-size: cover;
   background-size: cover;
 }
-
+/* footer */
+ul.nav.nav-pills.nav-stacked.social li p a span.dashicons { width: 40px; height: 40px; margin-right: 10px; }
+ul.nav.nav-pills.nav-stacked.social li p a span.dashicons:hover { background-color: #ffffff; }
 /*------------------- MEDIA QUERIES ----------------------*/
 
 @media (min-width: 1200px) {
