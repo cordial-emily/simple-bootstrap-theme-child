@@ -63,10 +63,7 @@
                         <h4 class="modal-title" id="myModalLabel">GET A QUOTE</h4>
                       </div>
                       <div class="modal-body">
-                        <?php  if ( isset($si_contact_form) ) {
-                        echo $si_contact_form->si_contact_form_short_code( array( 'form' => '1' ) );
-                        }
-                        ?>
+                        <?php echo do_shortcode('[si-contact-form form="1"]'); ?>
 
                       </div>
                       <div class="modal-footer">
