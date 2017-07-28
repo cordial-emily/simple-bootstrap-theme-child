@@ -134,7 +134,7 @@
           </button>
         </div>
         <div class="col-sm-6">
-          <div class="jumbotron">
+          <div class="jumbotron" style="background-color: #f4f5f9;">
             <?php echo do_shortcode('[si-contact-form form="2"]'); ?>
           </div>
         </div>
