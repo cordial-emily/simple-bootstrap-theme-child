@@ -140,6 +140,11 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
   width: 140px;
   height: 140px;
   background-color: #fff;
+  -webkit-transition: background-color 500ms ease-out 1s;
+-moz-transition: background-color 500ms ease-out 1s;
+-o-transition: background-color 500ms ease-out 1s;
+transition: background-color 500ms ease-out 1s;
+transition: transform .6s ease-in-out;
 }
 .fp-icons {
     font-size: 50px;
@@ -149,6 +154,10 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
 .icons-fp h5 {
     font-family: 'Poppins', sans-serif;
     font-size: 1.3em;
+}
+.icons-fp:hover {
+  transform: scale(1.1);
+  background-color: #009b9b;
 }
 .text-vert-cent { position: absolute; top: 2em; }
 
