@@ -141,10 +141,10 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
   height: 140px;
   background-color: #fff;
   -webkit-transition: background-color 500ms ease-out 1s;
--moz-transition: background-color 500ms ease-out 1s;
--o-transition: background-color 500ms ease-out 1s;
-transition: background-color 500ms ease-out 1s;
-transition: transform .6s ease-in-out;
+  -moz-transition: background-color 500ms ease-out 1s;
+  -o-transition: background-color 500ms ease-out 1s;
+  transition: background-color 500ms ease-out 1s;
+  transition: transform .6s ease-in-out;
 }
 .fp-icons {
     font-size: 50px;
@@ -154,11 +154,14 @@ transition: transform .6s ease-in-out;
 .icons-fp h5 {
     font-family: 'Poppins', sans-serif;
     font-size: 1.3em;
+    font-weight: 500;
+    color: #000000;
 }
 .icons-fp:hover {
   transform: scale(1.1);
   background-color: #009b9b;
 }
+.info-icons span.dashicons { color: #444343; }
 .text-vert-cent { position: absolute; top: 2em; }
 
 .overlay {
@@ -210,7 +213,7 @@ transition: transform .6s ease-in-out;
   background-size: cover;
 }
 /* footer */
-ul.nav.nav-pills.nav-stacked.social li p a span.dashicons { width: 40px; height: 40px; margin-right: 10px; }
+ul.nav.nav-pills.nav-stacked.social li p a span.dashicons { width: 40px; height: 40px; margin-right: 10px; border-radius: 3px;}
 ul.nav.nav-pills.nav-stacked.social li p a span.dashicons:hover { background-color: #ffffff; }
 /*------------------- MEDIA QUERIES ----------------------*/
 

@@ -34,7 +34,7 @@
       </div>
     </div>
   </div>
-  <div class="main jumbotron" style="background-color: #f4f5f9;">
+  <div class="main jumbotron info-icons" style="background-color: #f4f5f9;">
     <div class="container">
       <div class="row">
         <div class="col-md-2 col-sm-3 col-xs-6 text-center">
