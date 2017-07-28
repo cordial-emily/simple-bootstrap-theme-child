@@ -135,17 +135,7 @@
         </div>
         <div class="col-sm-6">
           <div class="jumbotron">
-            <form>
-              <div class="form-group">
-                <label for="exampleInputEmail1">Email address</label>
-                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-                <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-              </div>
-              <div class="form-group">
-                <label for="exampleTextarea">Message</label>
-                <textarea class="form-control" id="exampleTextarea" rows="3"></textarea>
-              </div>
-            </form>
+            <?php echo do_shortcode('[si-contact-form form="2"]'); ?>
           </div>
         </div>
       </div>
