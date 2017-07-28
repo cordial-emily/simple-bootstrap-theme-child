@@ -134,16 +134,21 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
 .main.jumbotron h2 { font-size: 3.3em; }
 .main.jumbotron h3 { font-size: 1.8em; }
 .icons-fp {
-    border: 4px solid #009b9b;
-    border-radius: 60%;
-    padding: 10px 4px;
-    width: 140px;
-    background-color: #fff;
+  border: 10px solid #009b9b;
+  border-radius: 60%;
+  padding: 20px;
+  width: 140px;
+  height: 140px;
+  background-color: #fff;
 }
 .fp-icons {
-    font-size: 70px;
-    height: 65px;
+    font-size: 50px;
+    height: 45px;
     width: 100%;
+}
+.icons-fp h5 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.3em;
 }
 .text-vert-cent { position: absolute; top: 2em; }
 
