@@ -37,11 +37,17 @@
   <div class="main jumbotron info-icons" style="background-color: #f4f5f9;">
     <div class="container">
       <div class="row">
-        <div class="col-md-2 col-sm-3 col-xs-6 text-center">
-          <div class="icons-fp">
+        <div class="col-md-2 col-sm-3 col-xs-6 text-center dropup">
+          <div class="icons-fp dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             <span class="dashicons dashicons-networking fp-icons"></span>
             <h5>Goals</h5>
           </div>
+          <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+            <li>Action</li>
+            <li>Another action</li>
+            <li>Something else here</li>
+            <li>Separated link</li>
+          </ul>
         </div>
         <div class="col-md-2 col-sm-3 col-xs-6 text-center">
           <div class="icons-fp">
