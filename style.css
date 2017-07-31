@@ -26,6 +26,11 @@ input, textarea {
     border: 2px solid #8d9397;
     padding: 6px 12px;
     border-radius: 3px;
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+    outline: none;
 }
 input { height: 34px; }
 input[type=checkbox] {
@@ -37,8 +42,9 @@ input[type=checkbox] {
     height: 15px !important;
     width: 15px !important;
 }
-input[type='checkbox']:checked {
-    background-color: #009b9b;
+input[type='checkbox']:checked { background-color: #009b9b; }
+input:focus, input:active {
+    box-shadow: 0 0 5px rgba(0,155,155, 1) !important;
 }
 
 /* menu and logo */
