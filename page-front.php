@@ -44,8 +44,8 @@
           </div>
           <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
             <li>Mindful of communication,</li>
-            <li>And with empathy for users,</li>
-            <li>We construct websites based on our clients' concept and goals.</li>
+            <li>With empathy for users,</li>
+            <li>We construct websites based on our clients' concepts and goals.</li>
           </ul>
         </div>
         <div class="col-md-2 col-sm-3 col-xs-6 text-center">
