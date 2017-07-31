@@ -43,10 +43,10 @@
             <h5>Goals</h5>
           </div>
           <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
-            <li>Action</li>
-            <li>Another action</li>
-            <li>Something else here</li>
-            <li>Separated link</li>
+            <li>Our goal:</li>
+            <li>Build out our clients' concept,</li>
+            <li>with empathy for users...</li>
+            <li>mindful of goals and communication.</li>
           </ul>
         </div>
         <div class="col-md-2 col-sm-3 col-xs-6 text-center">
