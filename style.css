@@ -43,7 +43,7 @@ input[type=checkbox] {
     width: 15px !important;
 }
 input[type='checkbox']:checked { background-color: #009b9b; }
-input:focus, input:active {
+input:focus, input:active, textarea:active {
     box-shadow: 0 0 5px rgba(0,155,155, 1) !important;
 }
 
