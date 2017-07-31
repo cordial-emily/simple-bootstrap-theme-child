@@ -38,7 +38,7 @@ input[type=checkbox] {
     width: 15px !important;
 }
 input[type='checkbox']:checked {
-    background-color: #6e7273;
+    background-color: #009b9b;
 }
 
 /* menu and logo */
@@ -125,6 +125,9 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
 .form-group.par-text-box {
     margin-left: 1.3em;
     margin-top: 1.3em;
+}
+.modal-header, .modal-footer {
+    background-color: #f4f5f9;
 }
 /* banner */
 .banner {
