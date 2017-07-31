@@ -93,7 +93,7 @@
       </div>
     </div>
   </div>
-  <div class="main jumbotron" style="background-color: #f4f5f9;">
+  <div class="main jumbotron" style="background-color: #f4f5f9; margin-bottom: 0px; padding-bottom: 0px;">
     <div class="container">
       <div class="row">
         <div class="col-sm-6 text-center overlay">

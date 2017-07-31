@@ -14,6 +14,7 @@
 /* fonts */
  @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500');
 
+/* globals */
 h1, h2, h3, h4 { font-family: 'Poppins', sans-serif; font-weight: 400;}
 h5 { font-weight: 400; font-size: 1.6em; color: #6e7273; }
 .btn, button.btn.btn-default:hover { border: 0px; }
@@ -21,6 +22,24 @@ span.dashicons { color: #8d9397; }
 p, small#emailHelp { font-family: 'Lato', sans-serif; font-weight: 400; }
 label { font-family: 'Poppins'; font-weight: 500; }
 a:hover { text-decoration: none; }
+input, textarea {
+    border: 2px solid #8d9397;
+    padding: 6px 12px;
+    border-radius: 3px;
+}
+input { height: 34px; }
+input[type=checkbox] {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -o-appearance: none;
+    border: 2px solid #8d9397;
+    border-radius: 3px;
+    height: 15px !important;
+    width: 15px !important;
+}
+input[type='checkbox']:checked {
+    background-color: #6e7273;
+}
 
 /* menu and logo */
 img.custom-logo:hover {
