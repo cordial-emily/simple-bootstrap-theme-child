@@ -43,10 +43,9 @@
             <h5>Goals</h5>
           </div>
           <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
-            <li>Our goal:</li>
-            <li>Build out our clients' concept,</li>
-            <li>with empathy for users...</li>
-            <li>mindful of goals and communication.</li>
+            <li>Mindful of communication,</li>
+            <li>And with empathy for users,</li>
+            <li>We construct websites based on our clients' concept and goals.</li>
           </ul>
         </div>
         <div class="col-md-2 col-sm-3 col-xs-6 text-center">
