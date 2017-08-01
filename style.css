@@ -32,7 +32,7 @@ input, textarea {
     -o-transition: all 0.30s ease-in-out;
     outline: none;
 }
-input { height: 34px; }
+input { height: 34px; margin-bottom: 10px; }
 input[type=checkbox] {
     -moz-appearance: none;
     -webkit-appearance: none;
@@ -89,7 +89,7 @@ button.btn.parallel-light {
   padding: .6em .6em .4em;
   font-size: 1.3em;
 }
-button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border-color: #333; }
+button.btn.parallel-light:hover, input[type="submit"] { background-color: #009b9b; color: #333; border-color: #333; }
 
 /* hamburger menu always */
 .navbar-header {
