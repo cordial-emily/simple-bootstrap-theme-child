@@ -249,6 +249,14 @@ ul.dropdown-menu {
   -o-background-size: cover;
   background-size: cover;
 }
+/* portfolio page */
+.middle .container {
+    background-color: transparent;
+}
+button.btn.btn-primary.web {
+    background-color: #428bca;
+    border: 3px solid #009b9b;
+}
 /* footer */
 ul.nav.nav-pills.nav-stacked.social li p a span.dashicons { width: 40px; height: 40px; margin-right: 10px; border-radius: 3px;}
 ul.nav.nav-pills.nav-stacked.social li p a span.dashicons:hover { background-color: #ffffff; }
