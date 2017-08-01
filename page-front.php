@@ -43,16 +43,30 @@
             <h5>Goals</h5>
           </div>
           <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
-            <li>Mindful of communication,</li>
-            <li>With empathy for users,</li>
-            <li>We construct websites based on our clients' concepts and goals.</li>
+            <li>With mindful of communication,<br>
+            and empathy for users,<br>
+            our goal is to make websites <br>
+            that meet the business needs <br>
+            of our clients <strong>profoundly</strong>.</li>
           </ul>
         </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 text-center">
-          <div class="icons-fp">
+        <div class="col-md-2 col-sm-3 col-xs-6 text-center dropup">
+          <div class="icons-fp dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             <span class="dashicons dashicons-portfolio fp-icons"></span>
             <h5>Budget</h5>
           </div>
+          <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+            <li>Parallel Design offers<br>
+               services at a variety <br>
+               of prices, from budget blogs <br>
+               with features chosen <i>A La Carte</i><br>
+               to corporate branding packages,<br>
+               and retainer services.<br>
+               To recieve a quote,<br>
+               send a message about your project to: <br>
+               <strong>Contact@<br>ParallelDesign.net</strong>
+            </li>
+          </ul>
         </div>
         <div class="col-md-2 col-sm-3 col-xs-6 text-center">
           <div class="icons-fp">
