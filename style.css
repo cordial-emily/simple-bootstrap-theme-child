@@ -139,6 +139,9 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
 .banner {
     background-color: #ffffff;
 }
+.bs-docs-featurette.main-content-width-wrapper {
+    background-color: #ffffff;
+}
 .container.subcontainer {
     background-color: transparent;
     background-image: none;
@@ -153,6 +156,7 @@ button.btn.parallel-light:hover { background-color: #009b9b; color: #333; border
 .graphic {
   height: auto;
 }
+.jumbotron { background-color: #f4f5f9; }
 /* middle front page */
 .main {
     width: 100%;
