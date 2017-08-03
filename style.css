@@ -127,6 +127,12 @@ button.btn.parallel-light:hover, input[type="submit"] { background-color: #009b9
 .collapse.in{
   display:block !important;
 }
+.navbar-collapse.in {
+    overflow-y: inherit;
+}
+header.top .container .row .parallel-nav .navbar-collapse.collapse.in {
+    margin-left: -100px;
+}
 /* header modal */
 .form-group.par-text-box {
     margin-left: 1.3em;
@@ -287,7 +293,6 @@ ul.nav.nav-pills.nav-stacked.social li p a span.dashicons:hover { background-col
 
 }
 @media screen and (max-width: 991px) {
-  .graphic { }
   [class*="col-"] {
     margin-bottom: 15px;
   }
@@ -340,7 +345,8 @@ ul.nav.nav-pills.nav-stacked.social li p a span.dashicons:hover { background-col
 }
 @media screen and (max-width: 395px) {
   img.custom-logo { height: 30px; margin-top: .7em; }
-  button.btn.parallel-light { font-size: .8em; margin: .8em 1em;}
+  .col-xs-1.quote { margin-left: -3em; }
+  button.btn.parallel-light { font-size: .8em; margin: .8em .5em;}
   .banner {
     background: url(images/icons/banner.2.png) top center no-repeat;
     -webkit-background-size: cover;

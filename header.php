@@ -34,25 +34,13 @@
  <!-- Site header and navigation -->
      <header class="top" role="header">
          <div class="container">
-
-
+            <div class="row">
+                <div class="col-xs-10">
                  <?php get_template_part( 'logo'); ?>
-
-
-
-               <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                   <span class="glyphicon glyphicon-align-justify"></span>
-               </button>
-               <div class="navbar-collapse collapse" role="navigation">
-
-                   <?php wp_nav_menu( array(
-                    'theme_location' 	  => 'primary',
-                    'container' 		    => 'ul',
-                    'menu_class'      	=> 'navbar-nav nav'
-                    )); ?>
-
-               </div>
-               <!-- Button trigger modal -->
+                </div>
+                <div class="col-xs-1 quote">
+                <!-- Button trigger modal -->
+                <button type="button" class="btn parallel-light" data-toggle="modal" data-target="#myModal">GET A QUOTE</button>
 
                 <!-- Modal -->
                 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -72,7 +60,24 @@
                     </div>
                   </div>
                 </div>
-               <button type="button" class="btn parallel-light" data-toggle="modal" data-target="#myModal">GET A QUOTE</button>
+                <!-- end modal -->
+                </div>
+               <div class="parallel-nav col-xs-1">
+                 <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                     <span class="glyphicon glyphicon-align-justify"></span>
+                 </button>
+                 <div class="navbar-collapse collapse" role="navigation">
+
+                     <?php wp_nav_menu( array(
+                      'theme_location' 	  => 'primary',
+                      'container' 		    => 'ul',
+                      'menu_class'      	=> 'navbar-nav nav pull-right'
+                      )); ?>
+
+                 </div>
+               </div>
+
+           </div> <!-- end row -->
 
          </div>
      </header>
