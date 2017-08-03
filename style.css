@@ -53,7 +53,7 @@ img.custom-logo:hover {
     border-radius: 3px;
 }
 .top .container {
-    padding: 1.6em 0em;
+    padding: 1.6em 0em .3em;
 }
 ul#menu-top {
     float: right;
