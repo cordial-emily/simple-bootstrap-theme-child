@@ -113,7 +113,7 @@
           <h3 class="text-vert-cent">Then we<br> build your site<br> from the ground up.</h3>
         </div>
         <div class="col-sm-6 text-center">
-          <img class="img-fluid" src="<?php echo get_stylesheet_directory_uri(); ?>/images/icons/people-building-site.1.png" alt="ParallelDesign" height="auto" width="100%" >
+          <img class="img-fluid" longdesc="https://paralleldesign.net/2017/08/08/called-parallel-design/" src="<?php echo get_stylesheet_directory_uri(); ?>/images/icons/people-building-site.1.png" alt="ParallelDesign" height="auto" width="100%" >
         </div>
       </div>
     </div>
