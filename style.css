@@ -263,6 +263,9 @@ button.btn.btn-primary.web {
     background-color: #428bca;
     border: 3px solid #009b9b;
 }
+button.btn.btn-primary.web {
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+}
 /* footer */
 ul.nav.nav-pills.nav-stacked.social li p a span.dashicons { width: 40px; height: 40px; margin-right: 10px; border-radius: 3px;}
 ul.nav.nav-pills.nav-stacked.social li p a span.dashicons:hover { background-color: #ffffff; }
