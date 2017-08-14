@@ -74,11 +74,24 @@
             </li>
           </ul>
         </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 text-center">
-          <div class="icons-fp">
+        <div class="col-md-2 col-sm-3 col-xs-6 text-center dropup">
+          <div class="icons-fp dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             <span class="dashicons dashicons-admin-multisite fp-icons"></span>
             <h5>Building</h5>
           </div>
+          <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+            <li>We build our <br>
+               themes in-house,
+               <hr>
+               and know each<br>
+               project is a<br>
+               collaboration.
+               <hr>
+               <a href="<?php echo get_stylesheet_directory_uri(); ?>/websites-that-satisfy/">Learn more <br>
+               about our build<br>
+               process.</a>
+            </li>
+          </ul>
         </div>
         <div class="col-md-2 col-sm-3 col-xs-6 text-center">
           <div class="icons-fp">
