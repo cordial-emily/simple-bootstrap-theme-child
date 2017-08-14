@@ -44,7 +44,9 @@
           </div>
           <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
             <li>With mindful of communication,<br>
+              <hr>
             and empathy for users,<br>
+              <hr>
             our goal is to make websites <br>
             that meet the business needs <br>
             of our clients <strong>profoundly</strong>.</li>
@@ -57,11 +59,15 @@
           </div>
           <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
             <li>Parallel Design offers<br>
-               services at a variety <br>
-               of prices, from budget blogs <br>
-               with features chosen <i>A La Carte</i><br>
+               services from:<br>
+               <hr>
+               budget blogs with <br>
+               features chosen <i>A La Carte</i><br>
+               <hr>
                to corporate branding packages,<br>
+               <hr>
                and retainer services.<br>
+               <hr>
                To recieve a quote,<br>
                send a message about your project to: <br>
                <strong>Contact@<br>ParallelDesign.net</strong>
