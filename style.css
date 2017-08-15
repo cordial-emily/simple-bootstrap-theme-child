@@ -196,8 +196,9 @@ header.top .container .row .parallel-nav .navbar-collapse.collapse.in {
     color: #000000;
 }
 .icons-fp:hover {
-  transform: scale(1.1);
-  background-color: #009b9b;
+    transform: scale(1.1);
+    background-color: #ebecf1;
+    border-color: #0ab406;
 }
 .info-icons span.dashicons { color: #444343; }
 .text-vert-cent { position: absolute; top: 2em; }
