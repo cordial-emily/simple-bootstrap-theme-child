@@ -100,7 +100,7 @@
             <h5>Testing</h5>
           </div>
           <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
-            <li>Connect with <br>
+            <li>Understand <br>
                your customers <br>
                with: <br>
                <hr>
@@ -133,11 +133,27 @@
             </li>
           </ul>
         </div>
-        <div class="col-md-2 col-sm-3 col-xs-6 text-center">
-          <div class="icons-fp">
+        <div class="col-md-2 col-sm-3 col-xs-6 text-center dropup">
+          <div class="icons-fp dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             <span class="dashicons dashicons-megaphone fp-icons"></span>
             <h5>Launch</h5>
           </div>
+          <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+            <li>We can provide in-depth <br>
+               SEO (Search Engine <br>
+               Optimization)<br>
+               services.
+               <hr>
+               We can optimize <br>
+               your site,
+               <hr>
+               improve visibility, <br>
+               <hr>
+               and use social media <br>
+               to promote your <br>
+               business.
+            </li>
+          </ul>
         </div>
       </div>
     </div>
