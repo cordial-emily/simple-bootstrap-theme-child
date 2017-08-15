@@ -197,7 +197,6 @@ header.top .container .row .parallel-nav .navbar-collapse.collapse.in {
 }
 .icons-fp:hover {
     transform: scale(1.1);
-    background-color: #ebecf1;
     border-color: #0ab406;
 }
 .info-icons span.dashicons { color: #444343; }
