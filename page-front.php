@@ -119,7 +119,7 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <h3 style="color: #009b9b;">Two designs.</h2>
-            <img class="img-fluid" longdesc="https://paralleldesign.net/2017/08/08/called-parallel-design/" src="<?php echo get_stylesheet_directory_uri(); ?>/images/icons/bulbs.png" alt="ParallelDesign-ideas" height="auto" width="30%" >
+            <img longdesc="https://paralleldesign.net/2017/08/08/called-parallel-design/" src="<?php echo get_stylesheet_directory_uri(); ?>/images/icons/bulbs.png" alt="ParallelDesign-ideas" height="auto" width="30%" >
           <h5>Choose the best ideas in each design.</h5>
         </div>
       </div>
