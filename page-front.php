@@ -100,11 +100,12 @@
             <h5>Testing</h5>
           </div>
           <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
-            <li>Understand <br>
-               your customers <br>
-               with: <br>
+            <li>We can help you <br>
+               reach your <br>
+               customers more <br>
+               effectively with: <br>
                <hr>
-               usability tools,<br>
+               usability tests,<br>
                <hr>
                & surveys.<br>
             </li>
