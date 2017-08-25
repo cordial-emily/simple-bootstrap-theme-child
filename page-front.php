@@ -11,9 +11,89 @@
             <h5>Get a custom, responsive website and grow your business.</h5>
             <!--<h5>. . . A web design company where we work in parallel to give you the best choices.</h5>-->
 
-            <button class="btn btn-default btn-lg" type="button">
+            <button class="btn btn-default btn-lg" type="button" data-toggle="modal" data-target="#myPlan">
             Find the right plan for you.
             </button>
+            <!-- Modal -->
+            <div class="modal fade" id="myPlan" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+              <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Learn about our plans:</h4>
+                  </div>
+                  <div class="modal-body">
+                    <table class="table table-responsive">
+                      <thead>
+                        <tr>
+                          <th>
+                            <h3>Budget Blogs</h3>
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr><th>Premade theme</th></tr>
+                        <tr><th>4 pages</th></tr>
+                      </tbody>
+                    </table>
+                    <table class="table table-responsive">
+                      <thead>
+                        <tr>
+                          <th>
+                            <h3>Custom Theme</h3>
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr><th>Design Site</th></tr>
+                        <tr><th>User Stories</th></tr>
+                        <tr><th>Email</th></tr>
+                      </tbody>
+                    </table>
+
+                    <table class="table table-responsive">
+                      <thead>
+                        <tr>
+                          <th>
+                            <h3>Branding Package +</h3>
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr><th>Design Site</th></tr>
+                        <tr><th>Email</th></tr>
+                        <tr><th>Logo</th></tr>
+                        <tr><th>Company style guide</th></tr>
+                        <tr><th>User Stories</th></tr>
+                        <tr><th>Usability Tests and Surveys</th></tr>
+                        <tr><th>Social Media</th></tr>
+                        <tr><th>SEO services</th></tr>
+                      </tbody>
+                    </table>
+                    <table class="table table-responsive">
+                      <thead>
+                        <tr>
+                          <th>
+                            <h3>Retainer Services</h3>
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr><th>Hosting</th></tr>
+                        <tr><th>Email</th></tr>
+                        <tr><th>Social Media</th></tr>
+                        <tr><th>SEO services</th></tr>
+                        <tr><th>Site Updates</th></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- end modal -->
           </div><!--end floating_title-->
           <div class="col-xs-12 col-sm-10 col-lg-10 col-md-offset-3 col-sm-offset-4 graphic">
             <img class="img-fluid" src="<?php echo get_stylesheet_directory_uri(); ?>/images/icons/parallel-banner-graphic.1.png" alt="ParallelDesign" height="auto" width="100%" >
@@ -55,7 +135,7 @@
         <div class="col-md-2 col-sm-3 col-xs-6 text-center dropup">
           <div class="icons-fp dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             <span class="dashicons dashicons-portfolio fp-icons"></span>
-            <h5>Budget</h5>
+            <h5>Services</h5>
           </div>
           <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
             <li>Parallel Design offers<br>

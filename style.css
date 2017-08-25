@@ -46,6 +46,7 @@ input[type='checkbox']:checked { background-color: #009b9b; }
 input:focus, input:active, textarea:active {
     box-shadow: 0 0 5px rgba(0,155,155, 1) !important;
 }
+.modal-body { overflow-x: auto; }
 
 /* menu and logo */
 img.custom-logo:hover {
@@ -210,6 +211,11 @@ ul.dropdown-menu {
     border: 2px solid #8d9397;
     padding: 1em;
     text-align: center;
+}
+table.table.table-responsive {
+    max-width: 100px;
+    float: left;
+    min-height: 300px;
 }
 /* speech bubble */
 .bubble {
