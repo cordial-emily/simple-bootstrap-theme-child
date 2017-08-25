@@ -198,11 +198,11 @@
         <div class="col-sm-6 col-md-offset-3 col-sm-offset-1 text-center">
           <div class="bubble">
           <p>Emily at Parallel Design did an exceptional job!<br>
-            Her attention to detail, ability to listen and understand all our desires, organization of the site, produce a successful and concise tutorial, and grasp of all the technical details are qualities I constantly look for when hiring.<br>-Jennifer Mezick</p>
+            Her attention to detail, ability to listen and understand all our desires, organization of the site, produce a successful and concise tutorial, and grasp of all the technical details are qualities I constantly look for when hiring.<br>-Jennifer Mezick <br><strong>Historic Knoxville<br> Properties</strong></p>
           </div>
         </div>
       </div>
-      <h3 class="text-center">Testimonials</h3>
+      <h3 class="text-center">Testimonial</h3>
     </div>
   </div>
   <div class="main jumbotron">

@@ -18,7 +18,7 @@ get_header();
 
                     <h4>OUR MOTTO:</h4>
                     <h2 style="text-transform: uppercase;">Websites With Empathy</h2>
-                    <p>Parallel design has a mission to foster mindfull and supportive communication in the fields of: technology, business, and education.</p> <p>We feel that it is important to provide our clients with clear and concise tutorials and one-on-one information sessions so that they will feel empowered by their websites and be able to use their online tools in important ways.<br><br>Parallel Design also wants everyone to be aware of their civil liberties in the digital world and to be advocates for themselves and active participants in the law-making of today.</p>
+                    <p>Parallel Design has a mission to foster mindfull and supportive communication in the fields of: technology, business, and education.</p> <p>We feel that it is important to provide our clients with clear and concise tutorials and one-on-one information sessions so that they will feel empowered by their websites and be able to use their online tools in important ways.<br><br>Parallel Design wants everyone to be aware of their civil liberties in the digital world, to be advocates for themselves, and active participants in the law-making of today.</p>
                   </div><!--col-md-12-->
 
                  <div class="col-md-4">
