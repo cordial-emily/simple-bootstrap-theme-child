@@ -216,6 +216,22 @@ table.table.table-responsive {
     max-width: 100px;
     float: left;
     min-height: 300px;
+    margin-right: 10px;
+}
+.modal-body thead tr th {
+    background: #009b9b;
+    color: #f4f5f9;
+    border: 1px solid #ccc;
+    padding: 0px 15px 5px;
+}
+.modal-body tbody {
+    background: #f4f5f9;
+    border: 1px solid #ccc;
+}
+.modal-body tbody tr th {
+    text-align: center;
+    font-weight: 400;
+    padding: 12px;
 }
 /* speech bubble */
 .bubble {

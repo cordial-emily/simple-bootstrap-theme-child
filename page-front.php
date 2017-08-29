@@ -27,7 +27,7 @@
                       <thead>
                         <tr>
                           <th>
-                            <h3>Budget Blogs</h3>
+                            <h3>Budget Site</h3>
                           </th>
                         </tr>
                       </thead>
