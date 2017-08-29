@@ -72,19 +72,7 @@ get_header();
                     </div>
                  </div>
 
-                 <div class="col-xs-2 webp">
-                    <div class="spacer">
-                    <button type="button" id="b5" class="btn btn-primary web" data-toggle="modal" data-target="#plansModal" data-whatever="Your Very Own Custom Website">
-                      <span class="webtitle">European<br> Body Works</span>
-                      <div class="mag-ico"></div>
-                      <img class="detail" src="<?php bloginfo('template_url') ?>/images/thumbnails/europeanbodyworks-thumb.png" scale="0">
-                      <div class="site-description" hidden>
-                        <img src="<?php bloginfo('template_url') ?>/images/webportfolio/europeanbodyworks-full.png" alt="European Body Works" height=auto class="port pfull"><img src="<?php bloginfo('template_url') ?>/images/webportfolio/europeanbodyworks-mobile.png" alt="Art Search" height=auto class="port pmobile">
-                        The spa European Body Works' site has a customized child theme based on the Wordpress Theme <a href="https://www.elegantthemes.com/gallery/divi/">'Divi'</a>. <br>Role: front-end developer and designer. </div>
-                      <div class="learnbtnlink"  hidden>http://europeanbodyworks.com/</div>
-                    </button>
-                    </div>
-                 </div>
+
 
               </div> <!-- end row -->
 
@@ -100,79 +88,6 @@ get_header();
                        <img src="<?php bloginfo('template_url') ?>/images/webportfolio/madlibs-full.png" alt="Madlibs" height=auto class="port pfull"><img src="<?php bloginfo('template_url') ?>/images/webportfolio/madlibs-mobile.png" alt="Art Search" height=auto class="port pmobile">
                        This is a Bootstrap site with a CSS animation and a form that inserts text with raw Javascript. <br>Role: developer and designer. </div>
                      <div class="learnbtnlink"  hidden>http://cordial-emily.com/madlibs/</div>
-                   </button>
-                   </div>
-                </div>
-
-                <div class="col-xs-2 webp">
-                   <div class="spacer">
-                   <button type="button" id="b7" class="btn btn-primary web" data-toggle="modal" data-target="#plansModal" data-whatever="Your Very Own Custom Website">
-                     <span class="webtitle">MS Creations</span>
-                     <div class="mag-ico"></div>
-                     <img class="detail" src="<?php bloginfo('template_url') ?>/images/thumbnails/mscreations-thumb.png" scale="0">
-                     <div class="site-description" hidden>
-                       <img src="<?php bloginfo('template_url') ?>/images/webportfolio/mscreations-full.png" alt="MSCreations" height=auto class="port pfull"><img src="<?php bloginfo('template_url') ?>/images/webportfolio/mscreations-mobile.png" alt="MSCreations" height=auto class="port pmobile">
-                       This site sells artwork by people living with MS. <br>This site is a Wordpress site based on 'Divi' with a custome child theme. For ecommerce, the site uses Woocommerce.  Role: developer and designer. </div>
-                     <div class="learnbtnlink"  hidden>http://mscreations.org/</div>
-                   </button>
-                   </div>
-                </div>
-
-                <div class="col-xs-2 webp">
-                   <div class="spacer">
-                   <button type="button" id="b8" class="btn btn-primary web" data-toggle="modal" data-target="#plansModal" data-whatever="Your Very Own Custom Website">
-                     <span class="webtitle">Security<br> Central Storage </span>
-                     <div class="mag-ico"></div>
-                     <img class="detail" src="<?php bloginfo('template_url') ?>/images/thumbnails/securitycentralstorage-thumb.png" scale="0">
-                     <div class="site-description" hidden>
-                       <img src="<?php bloginfo('template_url') ?>/images/webportfolio/securitycentralstorage-full.png" alt="Security Central Storage" height=auto class="port pfull"><img src="<?php bloginfo('template_url') ?>/images/webportfolio/securitycentralstorage-mobile.png" alt="Security Central Storage" height=auto class="port pmobile">
-                       For a storage company in Knoxville, TN, this site is a Wordpress site based on 'Divi' with a custome child theme. Role: Wordpress development, and graphic designer</div>
-                     <div class="learnbtnlink"  hidden>http://securitycentralstorageknoxville.com/</div>
-                   </button>
-                   </div>
-                </div>
-
-                <div class="col-xs-2 webp">
-                   <div class="spacer">
-                   <button type="button" id="b9" class="btn btn-primary web" data-toggle="modal" data-target="#plansModal" data-whatever="Your Very Own Custom Website">
-                     <span class="webtitle">Devonshire <br>Designs</span>
-                     <div class="mag-ico"></div>
-                     <img class="detail" src="<?php bloginfo('template_url') ?>/images/thumbnails/devonshiredesignsco-thumb.png" scale="0">
-                     <div class="site-description" hidden>
-                       <img src="<?php bloginfo('template_url') ?>/images/webportfolio/devonshiredesignsco-full.png" alt="Devonshire Designs" height=auto class="port pfull"><img src="<?php bloginfo('template_url') ?>/images/webportfolio/devonshiredesignsco-mobile.png" alt="Devonshire Designs" height=auto class="port pmobile">
-                       For a custom furniture company, this site is a Wordpress site based on 'Divi' with a custome child theme.  <br>Role: Wordpress development and graphic designer. </div>
-                     <div class="learnbtnlink"  hidden>http://devonshiredesignsco.com/</div>
-                   </button>
-                   </div>
-                </div>
-
-                <div class="col-xs-2 webp">
-                   <div class="spacer">
-                   <button type="button" id="b10"class="btn btn-primary web" data-toggle="modal" data-target="#plansModal" data-whatever="Your Very Own Custom Website">
-                     <span class="webtitle">Master Rooter</span>
-                     <div class="mag-ico"></div>
-                     <img class="detail" src="<?php bloginfo('template_url') ?>/images/thumbnails/rooterga-thumb.png" scale="0">
-                     <div class="site-description" hidden>
-                       <img src="<?php bloginfo('template_url') ?>/images/webportfolio/rooterga-full.png" alt="Master Rooter" height=auto class="port pfull"><img src="<?php bloginfo('template_url') ?>/images/webportfolio/rooterga-mobile.png" alt="Master Rooter" height=auto class="port pmobile">
-                       For a plumbing company, this site is a Wordpress site based on 'Divi' with a custome child theme. <br>Role: Wordpress development and graphic designer. </div>
-                     <div class="learnbtnlink"  hidden>http://rooterga.com/</div>
-                   </button>
-                   </div>
-                </div>
-              </div> <!-- end row -->
-
-
-              <div class="row">
-                <div class="col-xs-2 webp">
-                   <div class="spacer">
-                   <button type="button" id="b11" class="btn btn-primary web" data-toggle="modal" data-target="#plansModal" data-whatever="Your Very Own Custom Website">
-                     <span class="webtitle">Testprep<br>Experts</span>
-                     <div class="mag-ico"></div>
-                     <img class="detail" src="<?php bloginfo('template_url') ?>/images/thumbnails/testprepexperts-thumb.png" scale="0">
-                     <div class="site-description" hidden>
-                       <img src="<?php bloginfo('template_url') ?>/images/webportfolio/testprepexperts-full.png" alt="Master Rooter" height=auto class="port pfull"><img src="<?php bloginfo('template_url') ?>/images/webportfolio/testprepexperts-mobile.png" alt="Master Rooter" height=auto class="port pmobile">
-                       For an SAT Tutoring company, this site has an exhisting Wordpress theme that was updated to reflow responsively. Role: Wordpress developer. </div>
-                     <div class="learnbtnlink"  hidden>http://testprepexperts.com/</div>
                    </button>
                    </div>
                 </div>
@@ -218,6 +133,14 @@ get_header();
                    </button>
                    </div>
                 </div>
+
+
+              </div> <!-- end row -->
+
+
+              <div class="row">
+
+
 
 
   <!-- Modal ---------------------------------------------------------------->
