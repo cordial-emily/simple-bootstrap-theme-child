@@ -43,7 +43,7 @@ get_header();
           <br>
           <h3>Emily Schleiner <small class="text-muted">Founder, Web Developer</small></h3>
           <p style="font-size: 16px;">Seven years ago, Emily got her Masters in performance and interactive art, and found herself enamored of the process of making her portfolio website. Many web and graphic design projects later, she has grown to be an expert on building Wordpress Themes. <br>
-            She works dedicatedly to enhance the user experience of each development project she works on and has a keen interest in responsive web design, UX, and front-end web development libraries; she works hard to continually update her skills.</p>
+            She works dedicatedly to enhance the user experience of each development project she works on and has a keen interest in responsive web design and front-end web development libraries; she works hard to continually update her skills.</p>
         </div>
 
       </div>
