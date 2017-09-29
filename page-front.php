@@ -283,7 +283,7 @@
         </div>
         <div class="col-sm-6 text-center">
           <div class="bubble">
-          <p>Emily created a not only a great looking website but one that is easily navigated by our viewers. She was able to take all of our information and create an organized and informative site with style. <br>She made it easy for us to add information as well when needed. When something is beyond our skills she is always there to make the changes necessary.<br>-Sara Blair McNally<br><strong>A1labarts</strong></p>
+          <p>Emily created a not only a great looking website but one that is easily navigated by our viewers. She was able to take all of our information and create an organized and informative site with style. <br>She made it easy for us to add information but when something is beyond our skills she is always there to make the changes necessary.<br>-Sara Blair McNally<br><strong>A1labarts</strong></p>
           </div>
         </div>
       </div>
