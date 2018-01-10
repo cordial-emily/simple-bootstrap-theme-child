@@ -16,6 +16,33 @@ get_header();
                     <h2><?php echo get_the_title(); ?></h2>
                     <br>
                   </div><!--col-md-12-->
+                  <div class="col-xs-2 webp">
+                     <div class="spacer">
+                     <button type="button" id="b15" class="btn btn-primary web" data-toggle="modal" data-target="#plansModal" data-whatever="Test, test, test, test">
+                       <img class="detail" src="<?php bloginfo('template_url') ?>/images/thumbnails/indivisibleyolo-thumb.png" scale="0">
+                       <span class="webtitle first">Indivisible<br> Yolo</span>
+                       <div class="mag-ico"></div>
+                       <div class="site-description" hidden><img src="<?php bloginfo('template_url') ?>/images/webportfolio/indivisibleyolo.org.full-width.png" alt="Indivisible Yolo" height=auto class="port pfull"><img src="<?php bloginfo('template_url') ?>/images/webportfolio/indivisibleyolo.org.mobile.png" alt="Indivisible Yolo" height=auto class="port pmobile">
+                       <div class="learnbtnlink"  hidden>https://indivisibleyolo.org/</div>
+   This is a site has a custom carousel set up for clients to easily update on the backend, an easily updatable 'announcement bar' above the menu, and is designed to dynamically load recent blog posts and (calendar) events for the Indivisible Yolo community in Davis, CA. <br>Role: developer and designer (Html, CSS, and PHP).
+                       </div>
+                     </button>
+                     </div>
+                  </div>
+
+                  <div class="col-xs-2 webp">
+                     <div class="spacer">
+                     <button type="button" id="b16" class="btn btn-primary web" data-toggle="modal" data-target="#plansModal" data-whatever="Test, test, test, test">
+                       <img class="detail" src="<?php bloginfo('template_url') ?>/images/thumbnails/arkadia-lending-thumb.png" scale="0">
+                       <span class="webtitle first">Arkadia <br>Lending</span>
+                       <div class="mag-ico"></div>
+                       <div class="site-description" hidden><img src="<?php bloginfo('template_url') ?>/images/webportfolio/arkadia-lending.full-width.png" alt="Arkadia Lending" height=auto class="port pfull"><img src="<?php bloginfo('template_url') ?>/images/webportfolio/arkadia-lending.mobile.png" alt="Arkadia Lending" height=auto class="port pmobile">
+                       <div class="learnbtnlink"  hidden>http://cordial-emily.com/arkadia-lending/index.html</div>
+   This is a static site with a custom Javascript count-down to product launch date. <br><br>Role: developer (Graphic Design, Html, CSS, and PHP).
+                       </div>
+                     </button>
+                     </div>
+                  </div>
 
                  <div class="col-xs-2 webp">
                     <div class="spacer">
@@ -58,26 +85,24 @@ get_header();
                     </div>
                  </div>
 
-                 <div class="col-xs-2 webp">
-                    <div class="spacer">
-                    <button type="button" id="b4" class="btn btn-primary web" data-toggle="modal" data-target="#plansModal" data-whatever="Your Very Own Custom Website">
-                      <span class="webtitle">Emily Schleiner's<br> Website</span>
-                      <div class="mag-ico"></div>
-                      <img class="detail" src="<?php bloginfo('template_url') ?>/images/thumbnails/cordial-emily-thumb.png" scale="0">
-                      <div class="site-description" hidden>
-                        <img src="<?php bloginfo('template_url') ?>/images/webportfolio/cordial-emily-full.png" alt="Emily Schleiner's Website" height=auto class="port pfull"><img src="<?php bloginfo('template_url') ?>/images/webportfolio/cordial-emily-mobile.1.png" alt="Emily Schleiner's Website mobile view" height=auto class="port pmobile">
-                        This is a static portfolio site utilizing Bootstrap and some custom javascript. <br>In the 'web portfolio section' users can look at a series of modal pop-ups. Role: developer and designer. </div>
-                      <div class="learnbtnlink"  hidden>http://cordial-emily.com/</div>
-                    </button>
-                    </div>
-                 </div>
-
-
-
               </div> <!-- end row -->
 
 
               <div class="row">
+                <div class="col-xs-2 webp">
+                   <div class="spacer">
+                   <button type="button" id="b4" class="btn btn-primary web" data-toggle="modal" data-target="#plansModal" data-whatever="Your Very Own Custom Website">
+                     <span class="webtitle">Emily Schleiner's<br> Website</span>
+                     <div class="mag-ico"></div>
+                     <img class="detail" src="<?php bloginfo('template_url') ?>/images/thumbnails/cordial-emily-thumb.png" scale="0">
+                     <div class="site-description" hidden>
+                       <img src="<?php bloginfo('template_url') ?>/images/webportfolio/cordial-emily-full.png" alt="Emily Schleiner's Website" height=auto class="port pfull"><img src="<?php bloginfo('template_url') ?>/images/webportfolio/cordial-emily-mobile.1.png" alt="Emily Schleiner's Website mobile view" height=auto class="port pmobile">
+                       This is a static portfolio site utilizing Bootstrap and some custom javascript. <br>In the 'web portfolio section' users can look at a series of modal pop-ups. Role: developer and designer. </div>
+                     <div class="learnbtnlink"  hidden>http://cordial-emily.com/</div>
+                   </button>
+                   </div>
+                </div>
+
                 <div class="col-xs-2 webp">
                    <div class="spacer">
                    <button type="button" id="b6" class="btn btn-primary web" data-toggle="modal" data-target="#plansModal" data-whatever="Your Very Own Custom Website">
@@ -127,7 +152,7 @@ get_header();
                      <div class="mag-ico"></div>
                      <img class="detail" src="<?php bloginfo('template_url') ?>/images/thumbnails/landscape-thumb.png" scale="0">
                      <div class="site-description" hidden>
-                       <img src="<?php bloginfo('template_url') ?>/images/webportfolio/landscape-full.png" alt="IPython" height=auto class="port pfull">
+                       <img src="<?php bloginfo('template_url') ?>/images/webportfolio/landscape-full.png" alt="CalLandscape" height=auto class="port pfull">
                        <p class="portls">This is a site for a landscape design business that uses Jquery. <br>Role: Front-end developer.</p> </div>
                      <div class="learnbtnlink"  hidden>http://cordial-emily.com/landscape/landscape3.html</div>
                    </button>
