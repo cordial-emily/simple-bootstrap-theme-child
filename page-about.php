@@ -5,20 +5,6 @@ Template Name: About
 */
 get_header();
  ?>
- <div class="main jumbotron" style="background-color: #edeef3; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;">
-     <div class="container">
-       <div class="row">
-         <div class="col-sm-4 overlay text-right">
-           <br>
-           <h3>Where are we?</h3>
-           <p style="font-size: 16px;">We are located in sunny Davis, California. Sometimes we travel by bicycle to meet with local clients.</p>
-         </div>
-         <div class="col-sm-8 text-center" style="overflow:hidden;">
-           <img longdesc="cordial-emily.com" src="https://paralleldesign.net/wp-content/uploads/2018/02/davisCA-parallel-design.jpg" alt="Emily Schleiner" height="auto" width="600px">
-         </div>
-       </div>
-     </div>
-   </div>
  <div class="banner">
 
     <div class="middle">
@@ -45,12 +31,26 @@ get_header();
     </div><!--middle-->
   <!--</div><!--end gradient_container-->
 </div>
+<div class="main jumbotron" style="background-color: #edeef3; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-5 overlay text-right" style="padding: 0 4.5em;">
+          <br>
+          <h3>Where are we?</h3>
+          <p style="font-size: 16px;">We are located in sunny Davis, California. Sometimes we travel by bicycle to meet with local clients.</p>
+        </div>
+        <div class="col-sm-7 text-center" style="overflow:hidden;">
+          <img longdesc="cordial-emily.com" src="https://paralleldesign.net/wp-content/uploads/2018/02/davisCA-parallel-design.jpg" alt="Emily Schleiner" height="auto" width="600px">
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="main jumbotron" style="background-color: #f4f5f9; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;">
       <div class="container">
 
       <div class="row">
         <div class="col-sm-6 text-center">
-          <img longdesc="cordial-emily.com" src="https://paralleldesign.net/wp-content/uploads/2017/08/emily-schleiner-2016.jpg" alt="Emily Schleiner" height="auto" width="300px">
+          <img longdesc="cordial-emily.com" src="https://paralleldesign.net/wp-content/uploads/2017/08/emily-schleiner-2016.jpg" alt="Emily Schleiner" height="auto" width="370px">
         </div>
         <div class="col-sm-6 overlay">
           <br>
