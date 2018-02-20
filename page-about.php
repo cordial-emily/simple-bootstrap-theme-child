@@ -5,7 +5,7 @@ Template Name: About
 */
 get_header();
  ?>
- <div class="main jumbotron" style="background-color: #ffffff; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;">
+ <div class="main jumbotron" style="background-color: #edeef3; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;">
      <div class="container">
        <div class="row">
          <div class="col-sm-4 overlay text-right">
