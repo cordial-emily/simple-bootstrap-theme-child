@@ -48,6 +48,7 @@ input:focus, input:active, textarea:active {
     box-shadow: 0 0 5px rgba(0,155,155, 1) !important;
 }
 .modal-body { overflow-x: auto; }
+.shaded-bg { background-color: #f4f5f9 !important; }
 
 /* menu and logo */
 img.custom-logo:hover {

@@ -103,6 +103,24 @@
     </div>
 
 <!-- Middle content section -->
+<div class="shaded-bg main jumbotron">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <video style="width:100%; max-width:800px; height:auto;" controls
+        poster="https://paralleldesign.net/wp-content/uploads/2018/02/ParallelDesign.Net_.Animation.png" >
+        <source
+          src="https://paralleldesign.net/wp-content/uploads/2018/02/Welcome-to-Parallel-Design.Net-aqtg8LnqOzM.mp4"
+          type="video/mp4">
+        <source
+          src="https://paralleldesign.net/wp-content/uploads/2018/02/ParallelDesign.Net_.webm"
+          type="video/webm">
+        Your browser doesn't support HTML5 video tag.
+        </video>
+      </div>
+    </div>
+  </div>
+</div>
   <div class="main jumbotron">
     <div class="container">
       <div class="row">
@@ -114,7 +132,7 @@
       </div>
     </div>
   </div>
-  <div class="main jumbotron info-icons" style="background-color: #f4f5f9;">
+  <div class="shaded-bg main jumbotron info-icons">
     <div class="container">
       <div class="row">
         <div class="col-md-2 col-sm-3 col-xs-6 text-center dropup">
