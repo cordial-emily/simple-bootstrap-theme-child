@@ -51,7 +51,7 @@
                         <h4 class="modal-title" id="myModalLabel">GET A QUOTE</h4>
                       </div>
                       <div class="modal-body">
-                        <?php echo do_shortcode('[si-contact-form form="1"]'); ?>
+                        <?php echo do_shortcode('[wpforms id="233" title="false" description="false"]'); ?>
 
                       </div>
                       <div class="modal-footer">

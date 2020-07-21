@@ -314,7 +314,7 @@ ul.nav.nav-pills.nav-stacked.social li p a span.dashicons:hover { background-col
   .bannertext h1 { font-size: 4em; }
   .graphic {}
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1270px) {
   .top .container {
     padding: 1.6em 0em;
   }
